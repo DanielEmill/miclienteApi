@@ -4,20 +4,50 @@ C:\Users\DECG\Desktop\miclienteApi\publicacion\appsettings.json
 C:\Users\DECG\Desktop\miclienteApi\publicacion\Registro de Clientes y API.dll
 C:\Users\DECG\Desktop\miclienteApi\publicacion\Registro de Clientes y API.runtimeconfig.json
 C:\Users\DECG\Desktop\miclienteApi\publicacion\Registro de Clientes y API.pdb
+C:\Users\DECG\Desktop\miclienteApi\publicacion\Azure.Core.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\Azure.Identity.dll
 C:\Users\DECG\Desktop\miclienteApi\publicacion\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\Microsoft.Data.SqlClient.dll
 C:\Users\DECG\Desktop\miclienteApi\publicacion\Microsoft.Data.Sqlite.dll
 C:\Users\DECG\Desktop\miclienteApi\publicacion\Microsoft.EntityFrameworkCore.dll
 C:\Users\DECG\Desktop\miclienteApi\publicacion\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\DECG\Desktop\miclienteApi\publicacion\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\DECG\Desktop\miclienteApi\publicacion\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\DECG\Desktop\miclienteApi\publicacion\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\Microsoft.Identity.Client.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\Microsoft.IdentityModel.Logging.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\Microsoft.IdentityModel.Tokens.dll
 C:\Users\DECG\Desktop\miclienteApi\publicacion\Microsoft.OpenApi.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\Microsoft.SqlServer.Server.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\Microsoft.Win32.SystemEvents.dll
 C:\Users\DECG\Desktop\miclienteApi\publicacion\SQLitePCLRaw.batteries_v2.dll
 C:\Users\DECG\Desktop\miclienteApi\publicacion\SQLitePCLRaw.core.dll
 C:\Users\DECG\Desktop\miclienteApi\publicacion\SQLitePCLRaw.provider.e_sqlite3.dll
 C:\Users\DECG\Desktop\miclienteApi\publicacion\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\DECG\Desktop\miclienteApi\publicacion\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\DECG\Desktop\miclienteApi\publicacion\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\System.Configuration.ConfigurationManager.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\System.Drawing.Common.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\System.Memory.Data.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\System.Runtime.Caching.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\System.Security.Permissions.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\System.Windows.Extensions.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\DECG\Desktop\miclienteApi\publicacion\runtimes\alpine-arm\native\libe_sqlite3.so
 C:\Users\DECG\Desktop\miclienteApi\publicacion\runtimes\alpine-arm64\native\libe_sqlite3.so
 C:\Users\DECG\Desktop\miclienteApi\publicacion\runtimes\alpine-x64\native\libe_sqlite3.so
@@ -41,4 +71,9 @@ C:\Users\DECG\Desktop\miclienteApi\publicacion\runtimes\win-arm\native\e_sqlite3
 C:\Users\DECG\Desktop\miclienteApi\publicacion\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\DECG\Desktop\miclienteApi\publicacion\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\DECG\Desktop\miclienteApi\publicacion\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DECG\Desktop\miclienteApi\publicacion\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\DECG\Desktop\miclienteApi\publicacion\Registro de Clientes y API.deps.json
