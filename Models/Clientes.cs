@@ -4,12 +4,12 @@ using System.ComponentModel.DataAnnotations.Schema;
 public class Clientes
 {
     [Key]
-    public int ClienteId { get; set; }
+    public int clienteId { get; set; }
     [Required(ErrorMessage = "El Nombre es requerido")]
-    public string Nombres { get; set; }
+    public string nombres { get; set; }
     [Required(ErrorMessage = "El Rnc es requerido")]
-    public string Rnc { get; set; }
-    public string Direccion { get; set; }
-    public int LimiteCredito { get; set; }
+    public string rnc { get; set; }
+    public string direccion { get; set; }
+    public int limiteCredito { get; set; }
 }
 

@@ -32,7 +32,7 @@ public class ClientesController : ControllerBase
             return NotFound();
         }
         var clientes = await _context.Clientes
-            .Where(c => c.ClienteId == id)
+            .Where(c => c.clienteId == id)
             .FirstOrDefaultAsync();
 
         if (clientes == null)
@@ -48,7 +48,7 @@ public class ClientesController : ControllerBase
     [HttpPost]
     public async Task<ActionResult<Clientes>> PostCliente(Clientes cliente)
     {
-        if (!ClientesExists(cliente.ClienteId))
+        if (!ClientesExists(cliente.clienteId))
             _context.Clientes.Add(cliente);
         else
             _context.Clientes.Update(cliente);
@@ -80,6 +80,6 @@ public class ClientesController : ControllerBase
 
     private bool ClientesExists(int id)
     {
-        return (_context.Clientes?.Any(e => e.ClienteId == id)).GetValueOrDefault();
+        return (_context.Clientes?.Any(e => e.clienteId == id)).GetValueOrDefault();
     }
 }

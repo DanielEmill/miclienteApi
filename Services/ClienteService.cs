@@ -9,7 +9,7 @@ public class ClienteService
     }
     public async Task<bool> Guardar(Clientes cliente)
     {
-        if (!ClientesExists(cliente.ClienteId))
+        if (!ClientesExists(cliente.clienteId))
             _context.Clientes.Add(cliente);
         else
             _context.Clientes.Update(cliente);
@@ -20,6 +20,6 @@ public class ClienteService
 
     private bool ClientesExists(int id)
     {
-        return (_context.Clientes?.Any(e => e.ClienteId == id)).GetValueOrDefault();
+        return (_context.Clientes?.Any(e => e.clienteId == id)).GetValueOrDefault();
     }
 }

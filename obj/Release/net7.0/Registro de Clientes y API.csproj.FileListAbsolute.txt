@@ -67,3 +67,8 @@ C:\Users\DECG\Desktop\miclienteApi\obj\Release\net7.0\refint\Registro de Cliente
 C:\Users\DECG\Desktop\miclienteApi\obj\Release\net7.0\Registro de Clientes y API.pdb
 C:\Users\DECG\Desktop\miclienteApi\obj\Release\net7.0\Registro de Clientes y API.genruntimeconfig.cache
 C:\Users\DECG\Desktop\miclienteApi\obj\Release\net7.0\ref\Registro de Clientes y API.dll
+C:\Users\DECG\Desktop\miclienteApi\bin\Release\net7.0\publicacion\web.config
+C:\Users\DECG\Desktop\miclienteApi\bin\Release\net7.0\publicacion\appsettings.Development.json
+C:\Users\DECG\Desktop\miclienteApi\bin\Release\net7.0\publicacion\appsettings.json
+C:\Users\DECG\Desktop\miclienteApi\bin\Release\net7.0\publicacion\Registro de Clientes y API.deps.json
+C:\Users\DECG\Desktop\miclienteApi\bin\Release\net7.0\publicacion\Registro de Clientes y API.runtimeconfig.json

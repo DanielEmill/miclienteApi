@@ -1,6 +1,11 @@
 C:\Users\DECG\Desktop\miclienteApi\publicacion\Registro de Clientes y API.exe
+C:\Users\DECG\Desktop\miclienteApi\publicacion\publicacion\web.config
 C:\Users\DECG\Desktop\miclienteApi\publicacion\appsettings.Development.json
 C:\Users\DECG\Desktop\miclienteApi\publicacion\appsettings.json
+C:\Users\DECG\Desktop\miclienteApi\publicacion\publicacion\appsettings.Development.json
+C:\Users\DECG\Desktop\miclienteApi\publicacion\publicacion\appsettings.json
+C:\Users\DECG\Desktop\miclienteApi\publicacion\publicacion\Registro de Clientes y API.deps.json
+C:\Users\DECG\Desktop\miclienteApi\publicacion\publicacion\Registro de Clientes y API.runtimeconfig.json
 C:\Users\DECG\Desktop\miclienteApi\publicacion\Registro de Clientes y API.dll
 C:\Users\DECG\Desktop\miclienteApi\publicacion\Registro de Clientes y API.runtimeconfig.json
 C:\Users\DECG\Desktop\miclienteApi\publicacion\Registro de Clientes y API.pdb
