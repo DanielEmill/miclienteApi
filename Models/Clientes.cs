@@ -11,8 +11,5 @@ public class Clientes
     public string Rnc { get; set; }
     public string Direccion { get; set; }
     public int LimiteCredito { get; set; }
-
-    [ForeignKey("ClienteId")]
-    public ICollection<ClientesDetalle> ClientesDetalle { get; set; } = new List<ClientesDetalle>();
 }
 

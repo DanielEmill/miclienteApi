@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eQwrEnyfo6zfkfggyWvuTvE0Me8SEzS3cK5lenyfuBgmpnM34BPQ3sufyV1aSEsYvH9gmXd5LjEkQAozN9I4Cw==",
+  "dgSpecHash": "MZVqrkOQZhkiveKowKun7k5JX1ZsUyaanwm5OyFe1pLU84+SAcrhiECTPC2E4M1dwZ2FNqzbTjl8Ne59lfL4Qw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DECG\\Desktop\\Registro de Clientes y API\\miclienteApi\\Registro de Clientes y API.csproj",
+  "projectFilePath": "C:\\Users\\DECG\\Desktop\\miclienteApi\\Registro de Clientes y API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DECG\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\DECG\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.4\\microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",

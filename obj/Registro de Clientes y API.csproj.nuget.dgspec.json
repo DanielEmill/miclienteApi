@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DECG\\Desktop\\Registro de Clientes y API\\miclienteApi\\Registro de Clientes y API.csproj": {}
+    "C:\\Users\\DECG\\Desktop\\miclienteApi\\Registro de Clientes y API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DECG\\Desktop\\Registro de Clientes y API\\miclienteApi\\Registro de Clientes y API.csproj": {
+    "C:\\Users\\DECG\\Desktop\\miclienteApi\\Registro de Clientes y API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DECG\\Desktop\\Registro de Clientes y API\\miclienteApi\\Registro de Clientes y API.csproj",
+        "projectUniqueName": "C:\\Users\\DECG\\Desktop\\miclienteApi\\Registro de Clientes y API.csproj",
         "projectName": "Registro de Clientes y API",
-        "projectPath": "C:\\Users\\DECG\\Desktop\\Registro de Clientes y API\\miclienteApi\\Registro de Clientes y API.csproj",
+        "projectPath": "C:\\Users\\DECG\\Desktop\\miclienteApi\\Registro de Clientes y API.csproj",
         "packagesPath": "C:\\Users\\DECG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DECG\\Desktop\\Registro de Clientes y API\\miclienteApi\\obj\\",
+        "outputPath": "C:\\Users\\DECG\\Desktop\\miclienteApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DECG\\AppData\\Roaming\\NuGet\\NuGet.Config",
