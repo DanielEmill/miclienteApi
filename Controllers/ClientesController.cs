@@ -32,7 +32,6 @@ public class ClientesController : ControllerBase
             return NotFound();
         }
         var clientes = await _context.Clientes
-            .Include(c => c.ClientesDetalle)
             .Where(c => c.ClienteId == id)
             .FirstOrDefaultAsync();
 
@@ -43,6 +42,7 @@ public class ClientesController : ControllerBase
 
         return clientes;
     }
+
 
     // POST: api/Clientes
     [HttpPost]
